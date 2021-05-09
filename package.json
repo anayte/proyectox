@@ -4,7 +4,7 @@
   "description": "",
   "main": "proyecto.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
